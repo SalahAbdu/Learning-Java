@@ -1,0 +1,11 @@
+public class BMI
+{ 
+  public static void main(string[] args)
+  {
+    douple weightInKG = 115.0;
+    douple lenghthInMeters = 1.79;
+    
+    douple BMI = (weightInKG/(lenghthInMeters)^2);
+    System.out.println("your BMI is"+ BMI);
+    }
+ }
